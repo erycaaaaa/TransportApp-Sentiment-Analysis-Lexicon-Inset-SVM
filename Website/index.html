@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analisis Sentimen</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/Website/styles.css" rel="stylesheet">
+    
+</head>
+
+<body>
+    <div class="sidebar">
+        <div class="profile">
+            <img src=" " alt="Profile">
+            <h6 class="mt-2">BA</h6>
+        </div>
+        <a href="#" class="nav-link">Dashboard</a>
+        <a href="#" class="nav-link active">Data Latih</a>
+        <a href="#" class="nav-link">Data Uji</a>
+        <a href="#" class="nav-link">Klasifikasi</a>
+        <a href="#" class="nav-link">Visualisasi</a>
+        <a href="#" class="nav-link">Profil</a>
+        <a href="#" class="nav-link">Keluar</a>
+    </div>
+
+    <div class="main-content">
+        <h3 class="header-title">Data Latih - Analisis Sentimen</h3>
+
+        <div class="mb-4">
+            <label for="komentarInput" class="form-label">Masukkan komentar untuk analisis:</label>
+            <textarea id="komentarInput" class="form-control" rows="3"
+                placeholder="Ketik komentar di sini..."></textarea>
+            <button class="btn btn-custom mt-2" onclick="prosesKomentar()">Analisis Sentimen</button>
+        </div>
+
+        <table class="table table-striped table-bordered" id="tabelHasil">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Komentar</th>
+                    <th>Sentimen</th>
+                </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        let komentarCount = 5;
+        function prosesKomentar() {
+            const input = document.getElementById("komentarInput").value.trim();
+            if (!input) return;
+
+            // Simulasi analisis sentimen (positif jika mengandung "baik", sisanya negatif)
+            const isPositive = /baik|bagus|mantap|puas/i.test(input);
+            const sentimen = isPositive ? "Positif" : "Negatif";
+            const kelas = isPositive ? "text-success" : "text-danger";
+
+            const tabel = document.getElementById("tabelHasil").getElementsByTagName('tbody')[0];
+            const row = tabel.insertRow();
+            const cell1 = row.insertCell(0);
+            const cell2 = row.insertCell(1);
+            const cell3 = row.insertCell(2);
+
+            komentarCount++;
+            cell1.textContent = komentarCount;
+            cell2.textContent = input;
+            cell3.textContent = sentimen;
+            cell3.className = kelas;
+
+            document.getElementById("komentarInput").value = "";
+        }
+    </script>
+</body>
+
+</html>
