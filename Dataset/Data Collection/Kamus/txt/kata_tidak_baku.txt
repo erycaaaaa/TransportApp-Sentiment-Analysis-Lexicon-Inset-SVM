@@ -1,4 +1,60 @@
 ad : ada
+seblm : sebelum
+pergipulang : pergi pulang
+cb : coba
+accoutovodana : account ovo dana
+ribed : ribet
+wktu : Waktu
+pnh : pernah
+ujungnya : ujung nya
+solnya : soalnya
+mlm : malem
+sape : sampe
+mudahsayangnya : mudah sayangnya
+kaiprosesnya : kai proses nya
+mudahsayangnya : mudah sayang nya
+menyulitkan : menyulit kan
+tiketaplikasi : tiket aplikasi
+mensupport : me support
+bsisehingga : bisa sehingga
+ktpnya : ktp nya
+kedetect : ke detect
+mudahmudahan : mudah mudah an
+kemudahannya : kemudahan ya
+tetiba : tiba tiba
+diapp : di aplikasi
+distasiun : di stasiun
+sebelumnya : sebelum nya
+awalnya : awal nya
+ktpnya : ktp nya
+ditingkatkan : di tingkat kan
+aplikasinya : aplikasi nya
+mudahsering : mudah sering
+sendirinya : sendiri nya
+informasinya : infromasi nya
+menemukannya : menemukan nya
+naek : naik
+ribetsoalnya : rumit 
+pertamakali : pertama kali
+system : system
+bnerin : perbaiki
+ngelag : gangguan
+kereen : keren
+maluin : malu
+lokaaal : local
+pleaseee : mohon
+sediain : sedia
+banget : sangat
+nyaaa : nya
+bad : buruk
+bintangsemoga : bintang semoga
+pny : punya
+pngalaman : pengalaman
+customer : pelanggan
+no adm fee : tidak ada biaya administrasi
+i like it : saya suka
+kalog : katalog
+overall : secara keseluruhan
 krna : karena
 tks : terima kasih
 terimkasih : terima kasih
@@ -24,7 +80,7 @@ dg : dengan
 applikasi : aplikasi
 sampat : sempat
 cuman : hanya
-btw : omong-omong
+btw : omong omong
 aja: saja
 gk: tidak
 lu: kamu
@@ -35,21 +91,29 @@ tuh: itu
 rekomended: direkomendasikan
 ngurus: mengurus
 ka : kereta api
-skrg : sekarang
-inin : ini
-ga : tidak
+skrg : sekarang
+inin : ini
+ga : tidak
+menngganti : mengganti
 railfood : makanan kereta
-ngadaiin : mengadakan
-seriusan : serius
-mulu : terus
-mau : ingin
-kenceng : cepat
-cuman : cuma
-haduh : astaga
-kalo : kalau
-bener : benar
+ngadaiin : mengadakan
+seriusan : serius
+mulu : terus
+mau : ingin
+kenceng : cepat
+cuman : cuma
+haduh : astaga
+kalo : kalau
+bener : benar
 mantab : mantap
+hpnya : telepon genggam
 dg : dengan
+application : aplikasi
+Because : karena
+i : saya
+love soo muchhhhh : sangat mencintai
+to use train : menggunakan kereta
+for my transportation : sebagai transportasi saya
 paranomic :panorama
 applikasi : aplikasi
 gak : tidak
@@ -58,20 +122,45 @@ dlm : dalam
 thn : tahun
 banget : sangat
 blm : belum
+connecting train : kereta penghubung
+contact centre : pusat layanan
 mutermuter : muter muter
 pol : sih
+ktnya : katanya
+loading : memuat
+smartphone : telepon pintar
+existselalu :eksis selalu
+yaakhirnya : ya akhirnya
+ngecewain : mengecewakan
 udh : sudah
 sempet : sempat
+conneting train
+bugs : gangguan
+merchant : pedagang
 trs : terus
+kaiwalaupun : kai walaupun
+dapet : dapatenggak : tidak
+mas : masih
+akun basic : akun sederhana
 ngalami : mengalami
 sprt : seperti
 kayak : seperti
 kek : seperti
 gitu : begitu
+its oke : tidak apa apa
+gpp : tidak apa apa
+gpp its oke : tidak apa apa
 sippp : sip
+lancer : lancar
+AL : angkatan laut
+TNI : tentara nasional indonesia
+dahulu : dulu
+walaupun : walau
+img : lambang
 alhamdulillah : alhamdulillah
 tambahan : tambahan
 kalau : jika
+bugs : hambata
 bagusan : lebih baik
 point : poin
 gitu : begitu
@@ -149,7 +238,7 @@ aku : saya
 utk : untuk
 apalagi : terlebih
 ditambah : dilengkapi
-contact centre : contact center
+contact centre : pusat layanan
 dg : dengan
 mikir : pikir
 dr : dari
@@ -218,7 +307,7 @@ di lakukan : dilakukan
 jauhjauh : jauh jauh
 dimana : di mana
 dunkz : dong
-kk : Kartu Keluarga
+kk : kartu keluarga
 cancel : pembatalan
 makasih : terima kasih
 ngasi : ngasih 
@@ -277,7 +366,7 @@ hrsnya : harusnya
 spt : seperti
 sebenernya : sebenarnya
 banget : sangat
-cs : customer service
+cs : layanan pelanggan
 batalin : membatalkan
 bgt : banget
 doang : saja
@@ -315,7 +404,7 @@ kalo : kalau
 tetep : tetap
 yg : yang
 bener : benar
-goog : good
+goog : bagus
 di tingkatkan : ditingkatkan
 by : melalui
 yah : ya
@@ -330,7 +419,7 @@ uda : sudah
 itujadi : itu jadi
 dimanainsyaallah : di mana insyaallah
 amal jariyahmengalir : amal jariyah mengalir
-direlisasikanamindemikianterimakasih : direalisasikan Aamiin Demikian terima kasih
+direlisasikanamindemikianterimakasih : direalisasikan amin demikian terima kasih
 uburubur : ubur ubur
 di mudahkan : dimudahkan
 utk : untuk
@@ -435,7 +524,7 @@ karcis : tiket
 nggak : tidak
 malumaluin : memalukan
 malumalu : malu malu
-CSnya : customer service nya
+CSnya : layanan pelanggan nya
 hadapai : hadapi
 kok ga bisa di acces : kok tidak bisa diakses
 yg : yang
@@ -466,7 +555,7 @@ yg : yang
 batalinhanya : batalin hanya
 ka lokal : kereta api lokal
 pake : pakai
-eror : error
+eror : kesalahan
 tanpar : tanpa
 scen : scan
 sbnarnya : sebenarnya
@@ -486,7 +575,7 @@ jelak : jelek
 efesien : efisien
 apk : aplikasi
 user interface : tampilan antarmuka pengguna
-lpgout : logout
+lpgout : keluar akun
 knapa : kenapa
 sampe : sampai
 install : memasang
@@ -503,7 +592,7 @@ min : admin
 check in : checkin
 terimakasih : terima kasih
 ngeluh : mengeluh
-eror : error
+eror : kesalahan
 lelet : lambat
 kalo : kalau
 y transaksi : ya transaksi
@@ -528,7 +617,9 @@ di pakai : dipakai
 kalo : kalau
 pesen : pesan
 gak : tidak
-kereta because i love soo much to use train for my transportation : karena saya sangat suka menggunakan kereta sebagai transportasi
+because i : karena saya
+love soo much to use train : sangat suka menggunakan kereta 
+for my transportation : sebagai transportasi
 ktpalangkah : ktp alangkah
 ulangatau : ulang atau
 lansungaku : langsung aku
@@ -700,7 +791,6 @@ untuk : untuk
 pemakian : pemakaian  
 nya : nya  
 akhirnya : akhirnya  
-pramex : Pramex  
 bisa : bisa  
 dipesan : dipesan  
 via : via  
@@ -771,7 +861,7 @@ baruudh : baru sudah
 kalo : kalau  
 pesen : pesan  
 apk : aplikasi  
-tokped : Tokopedia  
+tokped : tokopedia  
 shopi : Shopee  
 blm : belum  
 gaada : tidak ada   
@@ -783,7 +873,7 @@ loket stasiun : loket di stasiun
 enak buat perjalanan : nyaman untuk perjalanan  
 kedepanya : ke depannya  
 reaktivasi : reaktivasi  
-dijawabarat : di Jawa Barat  
+dijawabarat : di jawa barat  
 kususnya : khususnya  
 udh : sudah  
 g : tidak  
@@ -1011,19 +1101,42 @@ pdhal : padahal
 yogya : Yogyakarta
 gak bisa : tidak bisa
 trus : lalu 
+mudiktapi : mudik tapi
 gimana : bagaimana
+nagntri : antre
+call center : pusat panggilan
+top : bagus
+mantap : bagus
+jurusansamperin : jurusan menghampiri
+khusunya : khususnya
+tujuanmaka : tujuan maka
+otp : kata sandi sekali pakai
 trims : terima kasih
+KIA : kartu identitas anak
 cukuo : cukup 
 syangnya : sayangnya
 no : nomor
+timeoute: habis waktu
+TIMEOUTE : habis waktu
+force close : tutup paksa
 terupdate : terbaru
 please : tolong 
+hri : hari
+Face Recognition : pengenalan wajah
+loadingnya : memuat
+id : identitas
+maintenance : pemeliharaan
 untk : untuk
 gegara : karena
+Biasany : biasanya
+bawaan : membawa
 gx : tidak
 cancel : membatalkan
+kebukak : terbuka
+fyi : untuk informasi anda
 sy : saya
 utk : untuk
+Thank you : terima kasih
 spt : seperti
 krn : karena
 sbg : sebagai
@@ -1237,7 +1350,7 @@ teruss : terus
 min : admin
 apknya : aplikasinya
 ngerasa : mengalami
-cs ny : customer service kai
+cs ny : layanan pelanggan kai
 bener : benar
 di pandu : dipandu
 ampe : sampai
@@ -1268,7 +1381,6 @@ mndpatkan : mendapatkan
 spti : seperti
 ajah : saja
 utl : untuk
-goog : good
 good : bagus
 dimanainsyalah : dimana insyallah 
 acra : acara
@@ -1343,7 +1455,7 @@ aces : access
 rail food : makanan rel
 scan : memindai
 code : kode
-screenshot : tangkap layer
+screenshot : tangkap layar
 terimakasih : terima kasih
 overload : melebihi batas kapasitas
 berhasildan : berhasil dan 
@@ -1415,7 +1527,7 @@ qrisovo : qris ovo
 debitmbanking : debit mobile banking
 nyamantp : nyaman tetapi
 malumaluin : malu maluin
-csnya : customer service nya
+csnya : layanan pelanggan nya
 feb : februari
 mmg : memang
 bkn : bukan 
@@ -1447,7 +1559,6 @@ sempga : semoga
 kadang : terkadang
 user interface nyaui : tampilan antarmuka 
 refund : dikembalikan 
-because i love so much to use train for my transportation : karena saya sangat suka menggunakan kereta sebagai transportasi saya
 webnya : website nya
 masuktapi : masuk tapi
 log out : keluar
@@ -1513,7 +1624,7 @@ sichsusah : sih susah
 berbayarpake : berbayar pakai
 buru : secepatnya 
 reprint : cetak ulang
-bugnya : error nya
+bugnya : kendala nya
 qrcode : kode qr
 jadwalsecara :  jadwal secara
 GeNose : genose
@@ -1547,7 +1658,7 @@ secara the way : ngomong ngomong
 tingkatin : tigkatkan
 lag Waktu lagi : lag saat pemesanan
 per sgustus : mulai agustus
-error : error
+error : kesalahan
 data seluler nya nyala : data seluler aktif
 Oenjelasan : penjelasan
 buru : tergesa gesa
@@ -1623,7 +1734,7 @@ hunting : berburu
 bayarpadahal : bayar padahal 
 or : atau
 gmn : bagaimana
-infonya : informasinya 
+infonya : informasi nya 
 sempet : sempat
 lebi : lebih
 simple : sederhana
@@ -1784,4 +1895,156 @@ lemotapalagi : lambat apalagi
 service : layanan
 force closetutup : tutup secara paksa
 sy : saya
-
+dftar : daftar
+chat live : obrolan chat
+nyaui : nya : ui
+because love soo muchhhhh to use train for my transportation : karena sangat suka menggunakan kereta sebagai transportasi saya
+connecting : koneksi
+baguswalau : bagus walau
+stuck : tidak bisa digunakan
+merespon : menanggapi
+smoga : semoga
+dicolokkan : dimasukkan 
+daratudaradan : darat dan
+kuikuti : saya ikuti
+ngebantu : membantu
+on time : tepat Waktu
+sukaa : suka
+ngasih : memberi
+ditindaklanjuti : tindak lajut
+orangorang : orang orang
+semenamena : semena mena
+mataramaja : matarmaja
+byyoujambi : untuk jambi
+replace : mengganti
+cashback : uang kembali
+busines : bisnis
+nyantol : tersangkut
+sekrang : sekarang
+work : bekerja
+beginiomg : begini
+device : alat
+the best : terbaik
+schedule : jadwal
+diget : digit
+recommend : rekomendasi
+local : local
+but over all : tapi secara keseluruhan
+kedirisepanjang : kediri sepanjang
+jugaterimakasih : juga terimakasih
+besarkapanpun : besar kapanpun
+accesssemoga : accces semoga
+indonesiakususnya : indonesia khususnya
+indonesiaaamiin : Indonesia amin
+ajanya : saja
+signal : sinyal
+curcol : curhat
+dsni : disini
+macetan : macet
+nmr : nomor
+belama : berlama lama
+city train : rute 
+not responding : tidak merespons
+timeout : habis Waktu
+force close : ditutup paksa
+ngg : tidak
+dating : dating
+jm : jam 
+brgkt : berangkat
+response : respons
+mobile device : perangkat seluler
+aplikasini : aplikasi ini
+full speed : kecepatan penuh 
+oper : dialihkan
+scr : secara
+low : kalua
+user frandly : mudah digunakan oleh pengguna
+accesssengat : access sangat
+aalah : salah
+username : nama pengguna
+traffic : jalanan
+waswas : waspada
+free admin : tidak ada biaya administrasi
+munculnomor : tampil nomor
+masukharusnya : masuk seharusnya
+over all : secara Kesselring 
+errorr : kesalahan
+by the way : omong omong
+searching : mencari
+pembayarannyapadahal : pembayarannya padahal
+face recognition : pengenalan wajah
+loading : memuat
+contact centre : pusat layanan
+waswas : waspada
+padhaal : padahal
+awalny : awalnya
+accountovodana : akun ovo dana
+sampe : sampai
+full : penuh
+password : kata sandi
+pasword : kata sandi
+login : masuk aplikasi
+log in : masuk aplikasi
+social distancing : jaga jarak
+fresh : segar
+fitur tracking live : pelacakan langsung
+bertahuntahun : bertahun tahun
+pembatalannyapun : pembatalan nya pun
+lost signal : hilang sinyal
+wallet : dompet
+sukese : sukses
+psti : pasti
+overall : secara keseluruhan 
+customer service : pusat layanan
+because  love soo muchhhhh to use train for my transportation : karena saya sangat menyukai penggunaan kereta sebagai alat transportasi saya
+krikil : kerikil
+on time : tepat waktu
+request : permintaan
+passwordyang : kata sandi yang
+thank you : terima kasih
+nagntr : antre
+aamiin : amin
+tiekt : tiket
+buking : pesan
+ttep : tetap
+but over all nice : tetapi secara keseluruhan baik
+capcus : pergi
+balikpokoknya : harus kembali
+pembatalanubah : pembatalan ubah
+operatorharus : operator harus
+mertuwa : mertua
+yaasaya : ya saya
+kembalisdh : kembali sudah
+berkalikali : berkali kali
+thank you : terima kasih
+nangis : menangis
+cepetalhamdulillahtapi : cepat alhamdulillah tapi
+full : penuh
+didepanheehehe : didepan heehehe
+ptkaisemoga : pt kai semoga
+didengarptkai : didengar pt kai
+lainsofar : lain sejauh ini
+is goodgood luck for : semangat untuk
+tiketnyaa : tiket nyaa
+time out : habis Waktu
+fee admin : biaya admin
+tiketmantabbbb : tiket mantab
+ceck : check
+pay : pembayaran
+downloadnya : unduh nya
+dengernya : dengar nya
+nwaru : nawaru
+pdahal : padahal
+tdak : tidak
+up : diangkat
+space : ruang
+jariyahmengalir : jariyah mengalir
+Aamiin : amin
+stay : tetap
+smartphone : telepon pintar
+loading : memuat
+conneting train : kereta sambungan
+holiday : hari libur
+the best : yang terbaik
+tigkatkan : tingkatkan
+nyanbung : nyambung
