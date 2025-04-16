@@ -1,0 +1,11 @@
+pandas                # Untuk manipulasi data tabular (DataFrame)
+numpy                 # Perhitungan numerik dan array
+matplotlib            # Visualisasi data (plot statik)
+seaborn               # Visualisasi statistik berbasis matplotlib
+plotly                # Visualisasi interaktif (grafik dinamis)
+wordcloud             # Membuat wordcloud dari teks
+nltk                  # Natural Language Toolkit, untuk preprocessing teks (tokenizing, stopwords, dll.)
+textblob              # Analisis sentimen dan pemrosesan teks sederhana
+scikit-learn          # Algoritma machine learning seperti SVM, evaluasi model, dan vectorizer
+Sastrawi              # Stemming Bahasa Indonesia (pemotongan kata ke bentuk dasar)
+google-play-scraper   # Mengambil review aplikasi dari Google Play Store
