@@ -6,14 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Analisis Sentimen</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link href="" rel="stylesheet">
-    
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+
 </head>
 
 <body>
     <div class="sidebar">
         <div class="profile">
-            <img src=" " alt="Profile">
+            <!-- <img src=" " alt="Profile"> -->
             <h6 class="mt-2">BA</h6>
         </div>
         <a href="#" class="nav-link">Dashboard</a>
@@ -21,21 +21,21 @@
         <a href="#" class="nav-link">Data Uji</a>
         <a href="#" class="nav-link">Klasifikasi</a>
         <a href="#" class="nav-link">Visualisasi</a>
-        <a href="#" class="nav-link">Profil</a>
-        <a href="#" class="nav-link">Keluar</a>
     </div>
 
     <div class="main-content">
         <h3 class="header-title">Data Latih - Analisis Sentimen</h3>
 
         <div class="mb-4">
-            <label for="komentarInput" class="form-label">Masukkan komentar untuk analisis:</label>
-            <textarea id="komentarInput" class="form-control" rows="3"
-                placeholder="Ketik komentar di sini..."></textarea>
-            <button class="btn btn-custom mt-2" onclick="prosesKomentar()">Analisis Sentimen</button>
+            <label for="searchInput" class="form-label">Cari Komentar:</label>
+            <form action="{{ url_for('index') }}" method="get">
+                <input type="text" id="searchInput" class="form-control" name="search" value="{{ search_query }}"
+                    placeholder="Ketik kata kunci untuk mencari komentar..." />
+                <button class="btn btn-custom mt-2" type="submit">Cari</button>
+            </form>
         </div>
 
-        <table class="table table-striped table-bordered" id="tabelHasil">
+        <table class="table">
             <thead>
                 <tr>
                     <th>#</th>
@@ -44,12 +44,31 @@
                 </tr>
             </thead>
             <tbody>
-
+                {% for row in tabel %}
+                <tr>
+                    <td>{{ loop.index + ((current_page - 1) * 10) }}</td>
+                    <td>{{ row.komentar | safe }}</td>
+                    <td>{{ row['sentimen'] }}</td>
+                </tr>
+                {% endfor %}
             </tbody>
         </table>
+
+        <!-- Pagination -->
+        <div class="pagination" style="margin-top: 20px;">
+            {% if current_page > 1 %}
+            <a href="{{ url_for('index', page=current_page-1) }}">&laquo; Sebelumnya</a>
+            {% endif %}
+
+            <span>Halaman {{ current_page }} dari {{ total_pages }}</span>
+
+            {% if current_page < total_pages %} <a href="{{ url_for('index', page=current_page+1) }}">Selanjutnya
+                &raquo;</a>
+                {% endif %}
+        </div>
     </div>
 
-    <script>
+    <!-- <script>
         let komentarCount = 5;
         function prosesKomentar() {
             const input = document.getElementById("komentarInput").value.trim();
@@ -74,7 +93,7 @@
 
             document.getElementById("komentarInput").value = "";
         }
-    </script>
+    </script> -->
 </body>
 
 </html>
