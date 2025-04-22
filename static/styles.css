@@ -91,3 +91,13 @@ mark {
     padding: 2px;
     border-radius: 4px;
 }
+.dropdown-menu {
+    left: 50% !important;
+    transform: translateX(-70%) !important;
+    margin-top: 330px !important;
+    /*geserkebawahsejauh10px*/:;
+    -webkit-transform: translateX(-70%) !important;
+    -moz-transform: translateX(-70%) !important;
+    -ms-transform: translateX(-70%) !important;
+    -o-transform: translateX(-70%) !important;
+}

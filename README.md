@@ -13,3 +13,10 @@ Analisis sentimen ulasan aplikasi transportasi Indonesia (Whoosh, Access by KAI,
 3.Install semua dependensi
     - pip install -r requirements.txt
 
+4. menjalaskan aplikasi 
+ -     pip install flask 
+ -     set FLASK_APP=main.py
+ -     set FLASK_ENV=development
+ -     flask run
+ -     flask --app main run
+ -     
