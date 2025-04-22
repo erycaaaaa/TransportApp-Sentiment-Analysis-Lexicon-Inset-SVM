@@ -2050,6 +2050,8 @@ conneting train : kereta sambungan
 holiday : hari libur
 the best : yang terbaik
 tigkatkan : tingkatkan
-ngeubah : merubah
+ngeubah : ngeubah
 nyanbung : nyambung
 chat : pesan 
+apknya : aplikasinya
+trus : terus
