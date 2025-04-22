@@ -1,82 +1,85 @@
-<!DOCTYPE html>
-<html lang="id">
+    <!DOCTYPE html>
+    <html lang="id">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Analisis Sentimen</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Analisis Sentimen</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
 
-</head>
+    </head>
 
-<body>
-    <div class="sidebar">
-        <div class="profile">
-            <!-- <img src=" " alt="Profile"> -->
-            <h6 class="mt-2">BA</h6>
-        </div>
-        <a href="#" class="nav-link">Dashboard</a>
-        <a href="#" class="nav-link active">Data Latih</a>
-        <a href="#" class="nav-link">Data Uji</a>
-        <a href="#" class="nav-link">Klasifikasi</a>
-            <a class="nav-link dropdown-toggle" href="#" id="visualisasiDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Visualisasi SVM
-            </a>
+    <body>
+        <div class="sidebar">
+            <div class="profile">
+                <!-- <img src=" " alt="Profile"> -->
+                <h6 class="mt-2">BA</h6>
+            </div>
+            <a href="#" class="nav-link">Dashboard</a>
+            <a href="#" class="nav-link active">Data Latih</a>
+            <a href="#" class="nav-link">Data Uji</a>
+            <a href="#" class="nav-link">Klasifikasi</a>
+                <a class="nav-link dropdown-toggle" href="#" id="visualisasiDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Visualisasi SVM
+                </a>
             <ul class="dropdown-menu" aria-labelledby="visualisasiDropdown">
-              <li><a class="dropdown-item" href="#">KAI ACCESS</a></li>
-              <li><a class="dropdown-item" href="#">MyMRTJ</a></li>
-              <li><a class="dropdown-item" href="#">Mitra Darat</a></li>
+                <li><a class="dropdown-item" href="{{ url_for('visualisasi_kai') }}">KAI ACCESS</a></li>
+                <li><a class="dropdown-item" href="#">MyMRTJ</a></li>
+                <li><a class="dropdown-item" href="#">Mitra Darat</a></li>
             </ul>
-        
-    </div>
-
-    <div class="main-content">
-        <h3 class="header-title">Data Latih - Analisis Sentimen</h3>
-
-        <div class="mb-4">
-            <label for="searchInput" class="form-label">Cari Komentar:</label>
-            <form action="{{ url_for('index') }}" method="get">
-                <input type="text" id="searchInput" class="form-control" name="search" value="{{ search_query }}"
-                    placeholder="Ketik kata kunci untuk mencari komentar..." />
-                <button class="btn btn-custom mt-2" type="submit">Cari</button>
-            </form>
+            
         </div>
 
-        <table class="table">
-            <thead>
-                <tr>
-                    <th>#</th>
-                    <th>Komentar</th>
-                    <th>Sentimen</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for row in tabel %}
-                <tr>
-                    <td>{{ loop.index + ((current_page - 1) * 10) }}</td>
-                    <td>{{ row.komentar | safe }}</td>
-                    <td>{{ row['sentimen'] }}</td>
-                </tr>
-                {% endfor %}
-            </tbody>
-        </table>
+        <div class="main-content">
+            <h3 class="header-title">Data Latih - Analisis Sentimen</h3>
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <div class="badge bg-primary fs-5">Akurasi: {{ akurasi }}%</div>
+            </div>
 
-        <!-- Pagination -->
-        <div class="pagination" style="margin-top: 20px;">
-            {% if current_page > 1 %}
-            <a href="{{ url_for('index', page=current_page-1) }}">&laquo; Sebelumnya</a>
-            {% endif %}
+            <div class="mb-4">
+                <label for="searchInput" class="form-label">Cari Komentar:</label>
+                <form action="{{ url_for('index') }}" method="get">
+                    <input type="text" id="searchInput" class="form-control" name="search" value="{{ search_query }}"
+                        placeholder="Ketik kata kunci untuk mencari komentar..." />
+                    <button class="btn btn-custom mt-2" type="submit">Cari</button>
+                </form>
+            </div>
 
-            <span>Halaman {{ current_page }} dari {{ total_pages }}</span>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Komentar</th>
+                        <th>Sentimen</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for row in tabel %}
+                    <tr>
+                        <td>{{ loop.index + ((current_page - 1) * 10) }}</td>
+                        <td>{{ row.komentar | safe }}</td>
+                        <td>{{ row['sentimen'] }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
 
-            {% if current_page < total_pages %} <a href="{{ url_for('index', page=current_page+1) }}">Selanjutnya
-                &raquo;</a>
+            <!-- Pagination -->
+            <div class="pagination" style="margin-top: 20px;">
+                {% if current_page > 1 %}
+                <a href="{{ url_for('index', page=current_page-1) }}">&laquo; Sebelumnya</a>
                 {% endif %}
+
+                <span>Halaman {{ current_page }} dari {{ total_pages }}</span>
+
+                {% if current_page < total_pages %} <a href="{{ url_for('index', page=current_page+1) }}">Selanjutnya
+                    &raquo;</a>
+                    {% endif %}
+            </div>
         </div>
-    </div>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
-</body>
+    </body>
 
-</html>
+    </html>

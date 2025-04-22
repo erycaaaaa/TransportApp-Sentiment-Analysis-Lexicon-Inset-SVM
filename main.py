@@ -39,13 +39,47 @@ def index():
             "sentimen": row["sentimen"]
         })
 
-    conn.close()
+    # Baca akurasi dari file
+    with open('./static/akurasi.txt', 'r') as f:
+        akurasi_nilai = float(f.read())
 
+    # Hitung jumlah sentimen
+    cursor.execute("SELECT COUNT(*) FROM komentar WHERE sentimen='Positif'")
+    positif_count = cursor.fetchone()[0]
+
+    cursor.execute("SELECT COUNT(*) FROM komentar WHERE sentimen='Negatif'")
+    negatif_count = cursor.fetchone()[0]
+
+    total_count = positif_count + negatif_count
+
+    # Hitung persentase
+    positif_percent = (positif_count / total_count) * 100 if total_count > 0 else 0
+    negatif_percent = (negatif_count / total_count) * 100 if total_count > 0 else 0
+
+    conn.close()
+    
     return render_template('index.html', 
                            tabel=highlighted_rows, 
                            current_page=page, 
                            total_pages=total_pages, 
-                           search_query=search_query)
+                           search_query=search_query,
+                           akurasi=round(akurasi_nilai, 2),
+                           positif_percent=round(positif_percent, 2),
+                           negatif_percent=round(negatif_percent, 2)
+                           )
+
+@app.route('/visualisasi/kai')
+def visualisasi_kai():
+    # Buka koneksi ke SQLite
+    conn = sqlite3.connect("DatabaseKAI.db")
+    df = pd.read_sql_query("SELECT sentimen FROM komentar", conn)
+    conn.close()
+
+    # Hitung jumlah masing-masing sentimen
+    sentimen_count = df["sentimen"].value_counts().to_dict()
+
+    # Kirim ke template
+    return render_template("visualisasi_kai.html", sentimen=sentimen_count)
 
 
 if __name__ == '__main__':

@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f4f6f9;
+    background-color: #d5e2f5;
     display: flex;
 }
 
@@ -100,4 +100,17 @@ mark {
     -moz-transform: translateX(-70%) !important;
     -ms-transform: translateX(-70%) !important;
     -o-transform: translateX(-70%) !important;
+}
+
+.main-content-visual {
+    margin-top: 30px;
+    margin-left: 300px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+canvas {
+    max-width: 400px;
+    max-height: 400px;
 }
