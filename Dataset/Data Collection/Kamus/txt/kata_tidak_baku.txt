@@ -2031,12 +2031,15 @@ fee admin : biaya admin
 tiketmantabbbb : tiket mantab
 ceck : check
 pay : pembayaran
+mes : pesan
 downloadnya : unduh nya
 dengernya : dengar nya
 nwaru : nawaru
 pdahal : padahal
 tdak : tidak
 up : diangkat
+belm : belum
+ngetab : memindai
 space : ruang
 jariyahmengalir : jariyah mengalir
 Aamiin : amin
@@ -2047,4 +2050,5 @@ conneting train : kereta sambungan
 holiday : hari libur
 the best : yang terbaik
 tigkatkan : tingkatkan
+ngeubah : merubah
 nyanbung : nyambung

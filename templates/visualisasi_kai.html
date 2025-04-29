@@ -7,36 +7,26 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <style>
-        .main-content {
-            margin-left: 200px;
-            /* sesuaikan dengan lebar sidebar kamu */
-            padding: 20px;
-        }
-
-        canvas {
-            max-width: 400px;
-            max-height: 400px;
-        }
-    </style>
 </head>
 
 <body>
 
     <div class="sidebar">
         <div class="profile">
+            <!-- <img src=" " alt="Profile"> -->
             <h6 class="mt-2">BA</h6>
         </div>
         <a href="#" class="nav-link">Dashboard</a>
         <a href="/" class="nav-link active">Data Latih</a>
         <a href="#" class="nav-link">Data Uji</a>
         <a href="#" class="nav-link">Klasifikasi</a>
-        <a class="nav-link dropdown-toggle" href="#" id="visualisasiDropdown" role="button" data-bs-toggle="dropdown"
-            aria-expanded="false">
+        <a class="nav-link dropdown-toggle" href="#" id="visualisasiDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Visualisasi SVM
         </a>
         <ul class="dropdown-menu" aria-labelledby="visualisasiDropdown">
             <li><a class="dropdown-item" href="{{ url_for('visualisasi_kai') }}">KAI ACCESS</a></li>
+            <li><a class="dropdown-item" href="#">MyMRTJ</a></li>
+            <li><a class="dropdown-item" href="#">Mitra Darat</a></li>
         </ul>
     </div>
 
