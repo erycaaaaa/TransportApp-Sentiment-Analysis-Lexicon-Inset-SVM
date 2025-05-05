@@ -2055,3 +2055,552 @@ nyanbung : nyambung
 chat : pesan 
 apknya : aplikasinya
 trus : terus
+App nya udah bagus : Aplikasinya sudah bagus
+udah : sudah
+cuma : hanya
+blu by BCA : blu by BCA
+bindingnya : mengaitkannya
+password : kata sandi
+dgn : dengan
+gak bisa : tidak bisa
+udh : sudah
+gpp : tidak apa apa
+di gunakan : digunakan
+coba2 : coba coba
+flash : flash
+ngebantu : membantu
+spt 10x perjalanan gratis 1x perjalanan : seperti 10 kali perjalana gratis 1 kali perjalanan
+tks : terima kasih
+keren aja : keren saja
+smartphone : ponsel pintar
+makasih app MRT J : terima kasih aplikasi MRTJ
+coba test : coba tes
+lux : mewah
+mantul banget : mantap sekali
+MRT Singapore : mrt singapura
+yg : yang
+Link aja : Linkaja
+OVO : ovo
+GOpay : gopay
+itu aja : itu saja
+sukses slalu : sukse selalu
+apk ini : aplikasi ini
+scan : memindai
+sya belom : saya belum
+apknya : aplikasinya
+sya memeberikan : saya memberikan
+karna : karena
+dengan percuma : dengan gratis
+terimakasih : terima kasih
+bpk : bapak
+pake : pakai
+QR code : kode QR
+tap in : tap masuk
+tap out : tap keluar
+Alhamdulillah : Alhamdulillah
+cepat & bebas : cepat dan bebas
+Update : Pembaruan
+tetapi blm : tapi belum
+keren banget : keren sekali
+gampang : mudah
+pesennya : pesannya
+jdi : jadi
+temen2 : teman teman
+ga perlu : tidak perlu
+buat bawa : untuk bawa
+cukup scan beres : hanya memindai selesai
+simple : sederhana
+modal transportasi lainnya : moda transportasi lainnya
+di iklankan : diiklankan
+media masa : media massa
+dengan ada nya : dengan adanya
+trasnport pribadi : transportasi pribadi
+kunci jawaban nya : kunci jawabannya
+kode refeal : kode referal
+liat jadwal : lihat jadwal
+kluar : keluar
+masih bakal : masih akan
+rating : penilaian
+ketemu : menemukan
+bug : kesalahan program
+MRR : MRT
+tp : tapi
+adain : adakan
+capek : lelah
+dg : dengan
+sy : saya
+prokes : protokol kesehatan
+selevel : setara
+on-line : online
+secure : amana
+agar begitu keluar : agar saaat keluar
+tinggal jalan kaki : hanya perlu jalan kaki
+begitu pun : demikian juga
+kereeeeeeeeeeen sekaliiiiiiiiiiiiiiii : keren sekali
+st.Istora Mandiri : stasiun istora mandiri
+top up : mengisi ulang
+emoney : uang elektronik
+mba cindy : kaka cindy
+di charge HPnya : diisi daya ponselnya
+sudah gitu : sudah begitu
+HPku : ponsel aku
+mbanya : kakaknya
+nawarin untuk hotspot : menawarkan untuk hotspot
+lamaaa : lama
+min : admin
+pelayananny : pelayanannya
+nambah rute : tambah rute
+jya ramah : juga ramah
+adem : sejuk
+pemesan tiket ny : pemesanan tiketnya
+naik pas : naik saat
+baguss : bagus
+banget : sekali
+ok : oke
+interfacenya : antarmukanya
+blom coba : belum coba
+smoga aja : semoga saja
+seneng bgt : seneng sekali
+ontime jugaaa : tepat waktu juga
+TJ : Transjakarta
+KRL : Kereta Rel listrik
+JakLingko : jaklingko
+trkadang lemot, terkadang bgs : terkadang lambat terkadang bagus
+udh 4x uninstall bru yg ke 5 donlot agar bs : sudah 4 kali uninstall baru yang ke 5 unduh
+rute nya : rutenya
+mudah2an : semoga
+trims : terima kasih
+pak : bapak
+mudah"an : semoga
+mrt nya : mrtnya
+buat naik : untuk naik
+Dear MRT-J App Team : Yang terhomat tim aplikasi MRT J
+history : riwayat
+multi trip : perjalanan berulang
+Semangat terus : tetaplah semangat
+team : tim
+download : unduh
+Multitrip nya : multitripnya
+keburu : telanjur
+up date : pembaharuan
+Jakart : Jakarta
+dlm : dalam
+bener2 : sangat
+kejar2 : mengejar
+makasi : terima kasih
+jalan2 : jalan jalan
+gak nyesel donloadnya : tidak menyesal mengunduhnya
+dalam otw : dalam perjalana menuju tujuan
+pembayaran nya : pembayarannya
+station : stasiun
+Aamiin : amin
+easy : mudah
+giveawaynya : pemberian gratisnya
+fitur2 : fitur fitur
+excellent : luar biasa
+ga nyangka : tidak menyangka
+kalo : kalau
+layanan y : layanannya
+ber : (hapus)
+gak : tidak
+kereta nya : keretanya
+semua nyaa : semuanya
+jd : jadi
+sukaaa : suka
+bangett : sekali
+ga muncul² : tidak muncul
+Udah di ulang² ttp ga bisa : sudah diulang ulang tetap tidak bisa
+mantul pokoknya : mantap intinya
+pembayrab tanpa antri : pembayaran tanpa antre
+rekomended : direkomendasikan
+support IT : pendukung teknologi
+terasa : merasa
+jln2 : jalan jalan
+Keren lah : sungguh keren
+trnsportasi : transportasi
+masal massal : app
+mahal" : mahal mahal
+beu : beli
+aplikasi nya : aplikasinya
+sekaliii : sekali
+naek : naik
+klo : kalau
+Menganggumkan : menakjubkan
+bertransfortasi : bertransportasi
+nieh : ini
+se hari2 : sehari hari
+tau : tahu
+engga : tidak
+lemot : lambat
+eror : bermasalah
+QR : kode QR
+pelayanan nya : pelayanannya
+Apl'y : aplikasinya
+g : tidak
+ribet : ruwet
+Mrt ny : MRTnya
+tlg bsa : tolong bisa
+d instal : dipasang
+lg : lagi
+Yaa : ya
+tlg : tolong
+biar ga : agar tidak
+nyebelin : menyebalkan
+blm : belum
+e-money nya : uang elektroniknya
+LRT is the best : lrt adalah yang terbaik
+lancar n sukses utk lrt : lancar dan sukses untuk lrt
+bagusss : bagus
+Apk : aplikasi
+jakartatingkat kn and kembangkn : jakarta tingkatkan dan kembangkan
+prestasi mu : prestasi anda
+serasa seperti : seakan akan
+menggudukasi : mengedukasi
+di gunakan aplikasi y : digunakan aplikasinya
+aAplikasinya : aplikasinya
+bagus sih : bagus sekali
+covq pake : coba pakai
+keretanya : akses nya
+aksesnya : bru pake
+baru pakai : blm
+dlm pemcobaan : dalam percobaan
+smoga : semoga
+berkmakana : bermakna
+buat kepegian : buat berpergian
+user : pengguna
+etiket : tiket elektronik
+baikk : baik
+membantunsaya : membantu saya
+donload : unduh
+terimakash : terima kasih
+keren bgt : keren sekali
+nieehhh : ini
+mau nyoba sihh : ingin mencoba saja
+Bismillahirrahmanirrahim : Bismillahirrahmanirrahim
+msh : masih
+applikasi ya : aplikasinya
+register : pendaftaran
+good : bagus
+okk : oke
+bngt : sekali
+bnyk : banyak
+mantul : mantap sekali
+ticket : tiket
+i love jakarta : aku cinta jakarta
+nulis : tulis
+di training : ditraining
+petugas ticketing : petugas penjual tiket
+Apaan sih : Kenapa
+aja : saja
+Mana kalau lagi ramai : Apalagi kalau ramai
+ngantri : ngantre
+utk : untuk
+bulan aplikasi : bukan aplikasi
+sdh : sudah
+nmr gopay atau dana pas mau bayarnya : nomor gopay atau dana saat ingin membayar
+ga : tidak
+org : orang
+wa : whatsapp
+singkron : sinkron
+virtual account : akun virtual
+uninstall : copot pemasangan
+full : penuh
+tetep aja : tetap saja
+cuma muncul : hanya tampil
+kode OTP : kode sandi sekali pakai
+dikirim2 : dikirimkan
+uda : sudah
+kudu nentuin : harus menentukan
+rikues update : meminta pembaruan
+commuterline : commuterline
+di refund : dikembalikan
+pas keluar gate: saat keluar gerbang
+plus tambahin support NFC : tambahan tambahkan mendukung NFC
+kayak pake : seperti pakai
+kacau amat : kacau sekali
+Bukannya : bukankah
+kaya gopay : seperti gopay
+ini malah pake : ini justru pakai
+dibuatin : dibuatkan
+beres : selesai
+bang : kakak
+kaya bikin : seperti membuat
+Aplikasi tol0l : aplikasi bodoh
+dikit2 : sedikit sedikit
+notif : notifikasi
+gblk emang bikin kesel pengguna aja : bodoh memang membuat kesal pengguna saja
+auto unistall : otomatis copot pemasangan
+astrapay : astrapay
+isaku : isaku
+rata2 : rata rata
+mau : ingin
+harusnya : seharusnya
+shopeepay : shopeepay
+mobile banking : mobile banking
+okupansi : okupasi
+koq gak bisa : mengapa tidak bisa
+terus saya : lalu saya
+ngelag : tersendat
+gak tahu : tidak tahu
+maintenance nya : perawatannya
+bagus bgt : bagus sekali
+cuma bisa : hanya bisa
+payment pakek 2 e-wallet : pemnbayaran pakai 2 dompet digital
+parah bgt : parah sekali
+payment : pembayaran
+trus : lalu
+gimana : bagaimana
+kacauuuu : kacau
+trauble : bermasalah
+bnget : sekali
+fail to fetch data from server : gagal mengambil data dari server
+nomor hape : nomor ponsel
+ngisi : mengisi
+mesen : pesan
+wifi : wifi
+pdhl : padahal
+dipake : dipakai
+ngak : tidak
+skrg : sekarang
+mulu : melulu
+distasiun : di stasiun
+no hp : nomor ponsel
+pass sudah benar : kata sandi sudah benar
+flexible : fleksibel
+account : akun
+E~Wallet : dompet digital
+trdaftar du : terdaftar di
+Pun jika mau : meskipun jika ingin
+go public : dipublikasikan
+tiba2 : tiba tiba
+gabisa : tidak bisa
+cuma ada tulisan : hanya ada tulisan
+Tolong lah aplikasi nya di benerin lagi : tolonglah aplikasinya diperbaiki lagi
+dibutuhin : dibutuhkan
+fitur doank : fitur saja
+diupdate : diperbarui
+dikasih : diberi
+loading : memuat
+gitu : begitu
+FE : Fetch Error
+bug critical : kesalahan kritis
+kok bisa naik production ya : mengapa bisa naik ke tahan produksi ya
+QA nya kemana, product managernya : penjamin mutunya ke mana, manager produknya
+pakai ni : pakai ini
+pas mau : saat ingin
+apps : aplikasi
+rada ga niat = agak tidak niat
+
+kyk : seperti
+non aktif : nonaktif
+lelet : lambat
+iphone : iphone
+point : poin
+sll : selalu
+link kan : kaitkan
+krn tdk bermaaf bagi : karena tidak bermanfaat bagi
+ngeribetin : menyulitkan
+lu benerin : kamu perbaiki
+hadehhh : haduh
+dn : dan
+smpah : sumpah
+si compln nya : yang melakukan komplain
+membagong kan : mengangetkan
+nie : ini
+bisa2 : bisa bisa
+gak kebayar-bayarb : tidak terbayarkan
+tu : itu
+bbrpa : beberapa
+di coba : dicoba
+tetep : tetap
+buanng" : buang buang
+release app : merilis aplikasi
+muji2 : puji puji
+force close : tutup paksa
+abis download : selesai download
+ngesupport : mendukung
+tenant : penyewa
+pricelistnya : daftar harganya
+hypr caffein : hypr caffein
+krn : karena
+psbb : psbb
+malam nya : malamnya
+kasih dong : kasih saja
+sms blast : sms blast
+lama2 : lama lama
+kagak laku ni : tidak laku ini
+gak ke baca : tidak terbaca
+ig : instagram
+bug nya : kesalahannya
+gajelas : tidak jelas
+di tingkatkan : ditingkatkan
+pengrima : pengiriman
+develope nya : developernya
+jaman purbakala : zaman purbakala
+tetep j g mau : tetap saja tidak bisa
+ga detil : tidak detail
+mesti : harus
+g ke email j : tidak ke email saja
+kaya gini : seperti begini
+ajee : saja
+ewallet : dompet digital
+g umum : tidak umum
+g bs : tidak bisa
+dl : dulu
+gmn : bagaimana
+matiin : matikan
+kl : kalau
+trasnportasi : transportasi
+pembayaranya : pembayarannya
+i saku : isaku
+nge blank : kosong
+bye bye : selamat tinggal
+layaknya : seperti
+mobile apps : aplikasi seluler
+tidak tahun : tidak tahu
+gak ngasih : tidak memberikan
+gabisa2 : tidak berhasil
+failed : gagal
+lgsg : langsung
+gag bisa liat : tidak bisa lihat
+gag : tidak
+DUMB ASS : sialan
+sistem nya : sistemnya
+bijimana neh : bagaimana ini
+sudsh benar : sudah benar
+appk : aplikasi
+trs skrg: lalu sekarang
+di suruh = diperintahkan
+restart : menyalakan ulang
+bikin : membuat
+ga kaya : tidak seperti
+barcode : barcode
+freeze di splash start screen : terhenti di tampilan awal masuk aplikasi
+nope : nomor ponsel
+di bilang : dikatakan
+fb : facebook
+twtr : twitter
+filed : gagal
+mlah : malah
+no.hp bner : nomor ponsel benar
+pdahal : Padahal
+slah : salah
+otp nya : otpnya
+Aplikaainya bikin panik : aplikasinya membuat panik
+Failed to load server : gagal memuat server
+di pake : dipakai
+mode pengembanagn : mode pengembang
+di aktifkan : diaktifkan
+payment channel : saluran pembayaran
+kesell bngttt : kesal sekali
+dihapuss : dihapus
+ngeselin bngtt : mengesalkan sekali
+muter terus kaya gansing : tetap berputar seperti gansing
+ilang2an : hilang hilangan
+general : umum
+refund : uang kembali
+gaada : tidak ada
+multi-trip card : kartu multi trip
+qris : qris
+luas ya : luasnya
+down grade : turun peringkat
+customer : pelanggan
+accsess : akses
+tadi nya : tadinya
+d bawah : di bawah
+mana ada : mengapa
+apa ada nyaa : alakadarnya
+gembel : gembel
+bener : benar
+kwalitas : kualitas
+dwitnya : duitnya
+di korup : dikorupsi
+Repotttt : repot
+tiap : setiap
+daftar akun paa : daftar akun sialan
+hangus : tidak berlaku
+layananya : layanannya
+sarat kepentingan : syarat kepentingan
+kacaw : kacau
+di perluas : diperluas
+di benahi : diperbaiki
+banyak lho : banyak tahu
+no : nomor
+gaya'an : pamer
+delete : hapus
+nomer : nomor
+braktis : praktis
+bln : bulan
+bbrp : beberapa
+nge bug : bermasalah
+updat : pembaruan
+ngk : tidak
+sering2 : sering sering
+cri : cari
+ganti2in : ganti gantikan
+buru2 : buru buru
+cancel : batal
+di isi : diisi
+goyang : goyang
+skali : sekali
+negur nya : tegurnya
+klw : kalau
+baik2 : baik baik
+boss : bos
+di permudah : dipermudah
+pencet : tekan
+kode verif : kode verifikasi
+lwt : lewat
+muncul2 : muncul muncul
+4menit : 4 menit
+refoud : uang kembali
+kocak : lucu
+google : google
+dpt2 : dapat dapat
+yaaa : ya
+males : malas
+ber kali2 : berkali kali
+rempong : susah
+hr rabu : hari rabu
+updt : pembaruan
+sprti : seperti
+st : stasiun
+dahhh : sudah
+duhhhhh : haduh
+otpnya : otpnya
+thr : tunjangan hari raya
+kaga : tidak
+mgelag : lambat
+Applikasi : aplikasi
+katro : norak
+nggak : tidak
+bangsatt : bangsat
+berkali2 : berkali kali
+pemgisian : pengisian
+aplikadi : aplikasi
+bego : bodoh
+di download : diunduh
+tolol : bodoh
+se dunia : sedunia
+gojeg : gojek
+g bisa2 : tidak bisa bisa
+forceclose : tutup paksa
+sysaj : saya saja
+Yak : ya
+di kurangin : dikurangin
+nau dftr : mau daftar
+apsnya : aplikasinya
+vertivikasi : verifikasi
+gila : tidak awaras
+diilangin : dihilangkan
+oon : bodoh
+di apusin : dihapuskan
+dkk : dan kawan kawan
+bca digital : bca digital
+plisss : tolong
+ribetttttt : ribet
+di persulit : dipersulit
+bengkrak : bengkak
+lho : sudah
+pegembang : pengembang
+apaannnn : apa
