@@ -68,6 +68,7 @@ def index():
                            negatif_percent=round(negatif_percent, 2)
                            )
 
+# Route untuk halaman visualisasi
 @app.route('/visualisasi/kai')
 def visualisasi_kai():
     # Buka koneksi ke SQLite
@@ -80,6 +81,42 @@ def visualisasi_kai():
 
     # Kirim ke template
     return render_template("visualisasi_kai.html", sentimen=sentimen_count)
+
+
+if __name__ == '__main__':
+    app.run(debug=True)
+
+# Route untuk halaman visualisasi MRTJ
+@app.route('/visualisasi/mrtj')
+def visualisasi_MRTJ():
+    # Buka koneksi ke SQLite
+    conn = sqlite3.connect("DatabaseMRT.db")
+    df = pd.read_sql_query("SELECT sentimen FROM komentar", conn)
+    conn.close()
+
+    # Hitung jumlah masing-masing sentimen
+    sentimen_count = df["sentimen"].value_counts().to_dict()
+
+    # Kirim ke template
+    return render_template("visualisasi_MRTJ.html", sentimen=sentimen_count)
+
+
+if __name__ == '__main__':
+    app.run(debug=True)
+
+# Route untuk halaman visualisasi Mitra Darat
+@app.route('/visualisasi/mitraDarat')
+def visualisasi_mitraDarat():
+    # Buka koneksi ke SQLite
+    conn = sqlite3.connect("DatabaseMitraDarat.db")
+    df = pd.read_sql_query("SELECT sentimen FROM komentar", conn)
+    conn.close()
+
+    # Hitung jumlah masing-masing sentimen
+    sentimen_count = df["sentimen"].value_counts().to_dict()
+
+    # Kirim ke template
+    return render_template("visualisasi_mitraDarat.html", sentimen=sentimen_count)
 
 
 if __name__ == '__main__':

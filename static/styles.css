@@ -47,6 +47,7 @@ body {
 .header-title {
     font-weight: 600;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .btn-custom {
@@ -108,9 +109,13 @@ mark {
     padding: 20px;
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
+    width: 100%;
+    max-width: 500px;
 }
 
 canvas {
+    width: 100% !important;
     max-width: 400px;
-    max-height: 400px;
+    height: auto !important;
+    margin: 0 auto;
 }

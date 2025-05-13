@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Visualisasi Sentimen KAI</title>
+    <title>Visualisasi Sentimen Mitra Darat</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -21,7 +21,8 @@
         <a href="/" class="nav-link active">Data Latih</a>
         <a href="#" class="nav-link">Data Uji</a>
         <a href="#" class="nav-link">Klasifikasi</a>
-        <a class="nav-link dropdown-toggle" href="#" id="visualisasiDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+        <a class="nav-link dropdown-toggle" href="#" id="visualisasiDropdown" role="button" data-bs-toggle="dropdown"
+            aria-expanded="false">
             Visualisasi SVM
         </a>
         <ul class="dropdown-menu" aria-labelledby="visualisasiDropdown">
@@ -32,15 +33,16 @@
     </div>
 
     <div class="main-content-visual">
-        <h3 class="header-title">Visualisasi Sentimen - KAI ACCESS</h3>
+        <h3 class="header-title">Visualisasi Sentimen - Mitra Darat</h3>
         <canvas id="sentimenChart"></canvas>
     </div>
 
+    
     <script>
-        const rawData = {{ sentimen | tojson }}; 
+        const rawData = {{ sentimen | tojson }};
 
         const keys = Object.keys(rawData);
-        const labels = ["Negatif", "Positif"]; 
+        const labels = ["Negatif", "Positif"];
         const values = keys.map(k => rawData[k]);
         const total = values.reduce((a, b) => a + b, 0);
 
@@ -51,7 +53,7 @@
                 labels: labels,
                 datasets: [{
                     data: values,
-                    backgroundColor: ['#f44336', '#4caf50'], 
+                    backgroundColor: ['#f44336', '#4caf50'],
                     borderWidth: 1,
                     borderColor: '#fff',
                 }]
@@ -83,7 +85,6 @@
             plugins: [ChartDataLabels]
         });
     </script>
-
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
