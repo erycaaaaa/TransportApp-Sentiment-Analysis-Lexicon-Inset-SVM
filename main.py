@@ -83,9 +83,6 @@ def visualisasi_kai():
     return render_template("visualisasi_kai.html", sentimen=sentimen_count)
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
-
 # Route untuk halaman visualisasi MRTJ
 @app.route('/visualisasi/mrtj')
 def visualisasi_MRTJ():
@@ -99,10 +96,6 @@ def visualisasi_MRTJ():
 
     # Kirim ke template
     return render_template("visualisasi_MRTJ.html", sentimen=sentimen_count)
-
-
-if __name__ == '__main__':
-    app.run(debug=True)
 
 # Route untuk halaman visualisasi Mitra Darat
 @app.route('/visualisasi/mitraDarat')
