@@ -1,5 +1,5 @@
 # TransportApp-Sentiment-Analysis-Lexicon-Inset-SVM
-Analisis sentimen ulasan aplikasi transportasi Indonesia (Whoosh, Access by KAI, MyMRTJ) dari Google Play Store menggunakan leksikon InSet dan SVM. Fokus pada identifikasi pola keluhan/pujian pengguna dan perbandingan sentimen antar aplikasi.
+Analisis sentimen ulasan aplikasi transportasi Indonesia (MitraDarat, Access by KAI, MyMRTJ) dari Google Play Store menggunakan leksikon InSet dan SVM. Fokus pada identifikasi pola keluhan/pujian pengguna dan perbandingan sentimen antar aplikasi.
 
 1. Fokus utama:
     - Mengidentifikasi pola keluhan dan pujian pengguna
