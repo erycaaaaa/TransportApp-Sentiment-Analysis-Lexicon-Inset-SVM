@@ -17,11 +17,11 @@
             <!-- <img src=" " alt="Profile"> -->
             <h6 class="mt-2">BA</h6>
         </div>
-        <a href="#" class="nav-link">Dashboard</a>
-        <a href="/" class="nav-link active">Data Latih</a>
-        <a href="#" class="nav-link">Data Uji</a>
-        <a href="#" class="nav-link">Klasifikasi</a>
-        <a class="nav-link dropdown-toggle" href="#" id="visualisasiDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+        <!-- <a href="#" class="nav-link">Dashboard</a> -->
+        <a href="/" class="nav-link">Data Latih</a>
+        <!-- <a href="#" class="nav-link">Data Uji</a>
+        <a href="#" class="nav-link">Klasifikasi</a> -->
+        <a class="nav-link active dropdown-toggle" href="#" id="visualisasiDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Visualisasi SVM
         </a>
         <ul class="dropdown-menu" aria-labelledby="visualisasiDropdown">
@@ -32,12 +32,12 @@
     </div>
 
     <div class="main-content-visual">
-        <h3 class="header-title">Visualisasi Sentimen - KAI ACCESS</h3>
+        <h3 class="header-title">Visualisasi Sentimen - ACCESS BY KAI</h3>
         <canvas id="sentimenChart"></canvas>
     </div>
 
     <script>
-        const rawData = {{ sentimen | tojson }}; 
+        // const rawData = {{ sentimen | tojson }}; 
 
         const keys = Object.keys(rawData);
         const labels = ["Negatif", "Positif"]; 

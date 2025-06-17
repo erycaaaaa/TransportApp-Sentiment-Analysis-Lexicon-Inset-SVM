@@ -95,7 +95,7 @@ mark {
 .dropdown-menu {
     left: 50% !important;
     transform: translateX(-70%) !important;
-    margin-top: 330px !important;
+    margin-top: 180px !important;
     /*geserkebawahsejauh10px*/
     -webkit-transform: translateX(-70%) !important;
     -moz-transform: translateX(-70%) !important;
