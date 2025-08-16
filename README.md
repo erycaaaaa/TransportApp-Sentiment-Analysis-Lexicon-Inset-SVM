@@ -213,9 +213,11 @@ flask run --debug
 
 ## 🎥 4 Buku Panduan 
 
+
 <p align="center">
-  <img src="/assets/demo.gif" alt="Demo Aplikasi" width="720"/>
+  <a href="assets/Buku Panduan Penggunaan.pdf" target="_blank">📄 Lihat Buku Panduan Penggunaan</a>
 </p>
+
 
 ---
 
