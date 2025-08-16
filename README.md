@@ -23,15 +23,21 @@ dan **Support Vector Machine (SVM)** untuk klasifikasi 🔎📊.
 <details>
   <summary>Daftar</summary>
 
-- [🎯 Tujuan Proyek](#-tujuan-proyek)
-- [🗺️ Alur Penelitian](#️-alur-penelitian)
-- [🔧 Pre-processing & TF-IDF](#-pre-processing--tf-idf)
-- [📊 Distribusi Sentimen](#-distribusi-sentimen-label-inset)
-- [🤖 Evaluasi Model SVM](#-evaluasi-model-svm)
-- [✅ Kesimpulan](#-kesimpulan)
-- [🛠️ Cara Menjalankan](#️-cara-menjalankan-proyek)
-- [📂 Struktur Direktori](#-struktur-direktori)
-- [👩‍💻 Penulis](#-penulis)
+- [🚆 TransportApp Sentiment Analysis (Lexicon InSet + SVM) 🤖](#-transportapp-sentiment-analysis-lexicon-inset--svm-)
+  - [📑 Daftar Isi](#-daftar-isi)
+  - [🎯 Tujuan Proyek](#-tujuan-proyek)
+  - [🗺️ Alur Penelitian](#️-alur-penelitian)
+  - [🔧 Pre-processing \& TF-IDF](#-pre-processing--tf-idf)
+  - [📊 Distribusi Sentimen (Label InSet)](#-distribusi-sentimen-label-inset)
+  - [🤖 Evaluasi Model SVM](#-evaluasi-model-svm)
+  - [✅ Kesimpulan](#-kesimpulan)
+  - [🛠️ Cara Menjalankan Proyek](#️-cara-menjalankan-proyek)
+    - [🔹 1. Clone Repo](#-1-clone-repo)
+    - [3) Instal Dependensi](#3-instal-dependensi)
+    - [3) Menjalankan Aplikasi Flask](#3-menjalankan-aplikasi-flask)
+  - [📂 Struktur Direktori (disarankan)](#-struktur-direktori-disarankan)
+  - [🎥 4 Buku Panduan](#-4-buku-panduan)
+  - [🧰 Troubleshooting Cepat](#-troubleshooting-cepat)
 
 </details>
 
@@ -215,7 +221,7 @@ flask run --debug
 
 
 <p align="center">
-  <a href="assets/Buku Panduan Penggunaan.pdf" target="_blank">📄 Lihat Buku Panduan Penggunaan</a>
+  <a href="./assets/Buku Panduan Penggunaan .pdf" target="_blank">📄 Lihat Buku Panduan Penggunaan</a>f
 </p>
 
 
